@@ -2,7 +2,7 @@ package Bundle::Math::Symbolic;
 use strict;
 use warnings;
 
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 1;
 
@@ -10,7 +10,7 @@ __END__
 
 =head1 NAME
 
-Bundle::Math::Random - Bundle of modules related to symbolic math
+Bundle::Math::Symbolic - Bundle of modules related to symbolic math
 
 =head1 SYNOPSIS
 
