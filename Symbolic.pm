@@ -2,7 +2,7 @@ package Bundle::Math::Symbolic;
 use strict;
 use warnings;
 
-$VERSION = '1.01';
+$VERSION = '1.02';
 
 1;
 
@@ -20,11 +20,25 @@ Bundle::Math::Symbolic - Bundle of modules related to symbolic math
 
 Math::Algebra::Symbols
 
+Math::Calculus::Differentiate
+
+Math::Calculus::Expression
+
+Math::Calculus::TaylorEquivalent
+
+Math::Calculus::TaylorSeries
+
 Math::Symbolic
 
 Math::Symbolic::Custom::CCompiler
 
+Math::Symbolic::Custom::Contains
+
 Math::Symbolic::Custom::ErrorPropagation
+
+Math::Symbolic::Custom::Pattern
+
+Math::Symbolic::Custom::Simplification
 
 Math::SymbolicX::BigNum
 
